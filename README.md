@@ -50,8 +50,12 @@ The system follows these steps:
 ## Dataset
 
 The system uses the MovieLens dataset with the following files:
-- `u.data`: Contains user ratings for movies
-- `u.item`: Contains movie information including titles, genres, and IMDb URLs
+- `ratings.csv`: Contains user ratings for movies
+- `movies.csv`: Contains movie information including titles, genres, and IMDb URLs
+
+## Website
+movierecsystem.streamlit.app
+
 
 ## Developer
 
